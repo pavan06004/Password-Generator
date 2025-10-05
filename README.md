@@ -56,6 +56,3 @@ The random password is q5WjD7sK2T
 * For each character in the password, `random.choice()` selects a random element from the pool.
 * The final password is printed as a concatenated string.
 
----
-
-Would you like bot to also add a **“Possible Improvements”** or **“Security Considerations”** section (e.g., using `secrets` instead of `random`)?
